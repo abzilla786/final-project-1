@@ -38,6 +38,7 @@
           "cookbook_paths": ["./berks-cookbooks"],
           "run_list":["IT-job-watch-cookbook-env::default"]
     },
+    
     {
      "type": "file",
      "source": "final-IT-Job-Watch/",
